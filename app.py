@@ -4,6 +4,8 @@ import streamlit as st
 
 # Encabezado de la aplicación
 st.header('Aplicación de análisis de vehículos')
+st.subheader('Jesús Tenorio - Sprint 7')
+
 
 # Cargamos los datos
 vehicles_df = pd.read_csv('vehicles_us.csv') 
