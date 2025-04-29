@@ -1,2 +1,2 @@
-# plotly_project
-proyecto del sprint 7
+# Descripción
+Esta aplicación web permite analizar anuncios de venta de vehículos, ofreciendo visualizaciones interactivas como un histograma del odómetro (kilometraje) y un gráfico de dispersión entre odómetro y precio. Los usuarios pueden generar estos gráficos de forma dinámica para explorar los datos y descubrir patrones.
